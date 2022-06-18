@@ -1,7 +1,13 @@
 # kadai_09-php
+php operation test.
 
-# kadai_09-php
+# DEMO
+MAMP is required to run this program and it works on localhost.
 
-# kadai_09-php
+# Reference
+https://wepicks.net/phpref-session/
 
-# kadai_09-php
+# Note
+It was difficult to separate the administrator display from other displays.
+
+Thank you!
